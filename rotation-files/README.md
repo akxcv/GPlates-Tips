@@ -9,4 +9,4 @@ GRot's pros:
 - Allows a newline at the end of file
 - Doesn't require each line to end in `!`
 
-See `rotation.grot` for an example.
+See [`rotation.grot`](https://github.com/akxcv/GPlates-Tips/blob/main/rotation-files/rotation.grot) for an example.
