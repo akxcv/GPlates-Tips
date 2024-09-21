@@ -5,3 +5,4 @@ This repository contains GPlates tips I found useful when working in this tool. 
 ## Tips
 
 - [Using GRot rotation files](https://github.com/akxcv/GPlates-Tips/tree/main/rotation-files)
+- [Tips about boundary topologies](https://github.com/akxcv/GPlates-Tips/tree/main/boundary-topologies)
